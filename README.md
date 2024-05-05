@@ -1,4 +1,4 @@
-# Kuenstliche-Intelligenz
+# KI
 Project files for Künstliche Intelligenz.
 The aim of this task is to encourage you to critically analyze the application of Artificial Intelligence (AI) in a business environment. You will assess the feasibility, possible benefits, and potential challenges of implementing AI within a company. You will especially focus on the data acquisition necessary for effective AI implementation and evaluate if this can be achieved via a Minimum Viable Product (MVP). 
  
